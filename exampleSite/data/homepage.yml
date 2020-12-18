@@ -15,9 +15,11 @@ banner:
 
 ######################## Banner call to action ############################
 bannerCTA:
-  enable : false
+  enable : true
   title : "Crafting visually stunning memorable experiences for web."
-  content : "Magni perspiciatis sequi, molestias dignissimos numquam placeat eveniet nobis rerum eos, facilis minus, est illo adipisci soluta dolores quisquam, praesentium ab corrupti!"
+  content : "Auf unseren Seiten finden sie interessante Informationen rund um die Malerwerkstatt Heinrich Müller sowie deren Leistungen. Werfen sie einen Blick in unsere Referenzen und überzeugen sie sich von unserer Arbeit.<br>
+  Bei Auftragsanfragen, allgemeinen Fragen zum Unternehmen und mehr erreichen sie uns direkt über das Kontaktformular.<br>
+  Wir bedanken uns für ihr Interesse an unserem Unternehmen und würden uns freuen, auch sie bald als Kunden begrüßen zu dürfen."
   button:
     enable : true
     label : "Learn more"
