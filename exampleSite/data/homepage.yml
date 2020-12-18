@@ -1,7 +1,7 @@
 ################################## Banner #################################
 banner:
-  subtitle : "Prepare for new future"
-  title : "Helping customers be their best in the moments that matter."
+  subtitle : "Willkommen bei Maler Heinrich Müller"
+  title : "Willkommen"
 
   button1:
     enable : true
@@ -14,14 +14,14 @@ banner:
     link : "service"
 
 ######################## Banner call to action ############################
-bannerCTA:
-  enable : true
-  title : "Crafting visually stunning memorable experiences for web."
-  content : "Magni perspiciatis sequi, molestias dignissimos numquam placeat eveniet nobis rerum eos, facilis minus, est illo adipisci soluta dolores quisquam, praesentium ab corrupti!"
-  button:
-    enable : true
-    label : "Learn more"
-    link : "about"
+#bannerCTA:
+#  enable : true
+#  title : "Crafting visually stunning memorable experiences for web."
+#  content : "Magni perspiciatis sequi, molestias dignissimos numquam placeat eveniet nobis rerum eos, facilis minus, est illo adipisci soluta dolores quisquam, praesentium ab corrupti!"
+#  button:
+#    enable : true
+#    label : "Learn more"
+#    link : "about"
 
 ########################## Intro ########################################
 intro:
