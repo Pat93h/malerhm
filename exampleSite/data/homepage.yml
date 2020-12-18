@@ -10,22 +10,22 @@ banner:
 
   button2:
     enable : true
-    label : "Nehmen Sie Kontakt auf!"
+    label : "Kontaktieren Sie uns"
     link : "contact"
 
 ######################## Banner call to action ############################
-#bannerCTA:
-#  enable : true
-#  title : "Crafting visually stunning memorable experiences for web."
-#  content : "Magni perspiciatis sequi, molestias dignissimos numquam placeat eveniet nobis rerum eos, facilis minus, est illo adipisci soluta dolores quisquam, praesentium ab corrupti!"
-#  button:
-#    enable : true
-#    label : "Learn more"
-#    link : "about"
+bannerCTA:
+  enable : false
+  title : "Crafting visually stunning memorable experiences for web."
+  content : "Magni perspiciatis sequi, molestias dignissimos numquam placeat eveniet nobis rerum eos, facilis minus, est illo adipisci soluta dolores quisquam, praesentium ab corrupti!"
+  button:
+    enable : true
+    label : "Learn more"
+    link : "about"
 
 ########################## Intro ########################################
 intro:
-  enable : true
+  enable : false
   title : "We provide best solution to client with their business problem"
   introItem:
     # intro item loop
@@ -41,10 +41,9 @@ intro:
 ######################## About #######################################
 about:
   enable : true
-  image : "images/about/home-8.jpg"
+  #image : "images/about/home-8.jpg"
   title : "Forget about <br>design limits! Build and customize your portfolio"
-  content : "We provide consulting services in the area of IFRS and management reporting, helping companies
-            to reach their highest level. We optimize business processes, making them easier."
+  content : "Auf unseren Seiten finden sie interessante Informationen rund um die Malerwerkstatt Heinrich Müller sowie deren Leistungen."
   button:
     enable : true
     label : "Get started"
